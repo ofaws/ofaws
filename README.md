@@ -6,7 +6,7 @@ At the heart of my professional journey is a deep passion for PHP development, b
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ofaws)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofaws&theme=solarized_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofaws&theme=solarized_dark) -->
 
 <!--
 **ofaws/ofaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
